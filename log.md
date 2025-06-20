@@ -22,4 +22,4 @@
 **Thoughts** I've recently started coding, and it's a great feeling when I finally finish one beginner project after a lot of attempts and hours spent.
 
 **Link to work:** (Project Example)
-1. [Calculator App](http://www.example.com)
+1. [Calculator App]((https://codepen.io/adamfazi/pen/LEVgWbK))
