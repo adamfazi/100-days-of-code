@@ -15,6 +15,17 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 
+
+### Day 2: June 20, 2025 (Friday)
+
+**Today's Progress**: I've finished 2 beginner projects
+
+**Thoughts** I've done 2 more beginner project using HTML, CSS and JavaScript. Getting into the groove.
+
+**Link to work:** (Project Example)
+1. [BMI App](https://codepen.io/adamfazi/pen/Pwqxebq)
+2. [Pomodoro App](https://codepen.io/adamfazi/pen/wBaQjgG)
+
 ### Day 1: June 19, 2025 (Thursday)
 
 **Today's Progress**: I've finished one beginner project
